@@ -22,14 +22,12 @@
     * {
       box-sizing: border-box;
     }
-
     .secondpart {
       padding: 65px;
       height: 500px;
       background-color: rgb(51, 51, 51);
 
     }
-
     .secondpart h2,
     p {
       color: white;
