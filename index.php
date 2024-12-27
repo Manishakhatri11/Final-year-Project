@@ -157,7 +157,6 @@
       height: 400px;
       border-radius: 8%;
     }
-
     .sixpart {
       color: white;
       padding: 65px;
@@ -323,34 +322,6 @@
 
 
   
-
-  <!-- This is message submit box six part -->
-<!-- 
-  <div class="sixpart">
-    <div class="sixleft">
-      <h3> About us</h3>
-      <br>
-      <p>Use the form below to get in touch with us and we'll respond as soon as possible. We're here to answer any
-        questions you may have about our ebus ticket service.</p>
-    </div>
-
-    <div class="sixright">
-
-    <form action="contactus" method="post" >
-      <label for="">Enter Your Name</label> <br>
-      <input type="text" name="yourname" id=""> <br>
-      <label for="">Enter Your Email</label> <br>
-      <input type="text" name="youremail" id=""><br>
-      <label for="">Message</label> <br>
-      <textarea name="textarea" id="" cols="40" rows="5"></textarea><br>
-      <br>
-      <br>
-      <button class="btn btn-primary" > Send</button>
-      </form>
-    </div>
-
-  </div> -->
-
 
 <!-- this is last part footer seven  part -->
 
